@@ -12,3 +12,11 @@
 - 📫 How to reach me: Through my Discord or Twitter.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a 17 year old programmer.
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/DiscordPtbBuilds/DiscordPtbBuilds/blob/main/icon/c.svg title="C++" alt="C++" width="40" height="40"/>&nbsp;
+<img src="https://github.com/DiscordPtbBuilds/DiscordPtbBuilds/blob/main/icon/cs.png title="CS" alt="CS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/DiscordPtbBuilds/DiscordPtbBuilds/blob/main/icon/java.png title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/DiscordPtbBuilds/DiscordPtbBuilds/blob/main/icon/js.png title="JavaS" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/DiscordPtbBuilds/DiscordPtbBuilds/blob/main/icon/pyth.png title="Python" alt="Pyth" width="40" height="40"/>&nbsp;
+</div>
