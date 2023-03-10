@@ -28,9 +28,9 @@ All software & repositories go to my credits (©️, Except Forks!)
 - 📜🖥️ Rust
 - 📜🖥️ R
 ### My current status 👷‍♂️🖥️:
--🔭  Developing WebServers for DiscordPTBDev Client
--🔭  Developing RDXReduxLib3.1
--🔭  Maintaining Discord Ptb Builds Server
+- 🔭 Developing WebServers for DiscordPTBDev Client
+- 🔭 Developing RDXReduxLib3.1
+- 🔭 Maintaining Discord Ptb Builds Server
 ## Collaborations 🤝:
 - 🤝 Kyxles
 - 🤝 Rekter
