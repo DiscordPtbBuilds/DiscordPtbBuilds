@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/0tiXRQ6x7MEAAAAd/discord-wumpus.gif" width="100"/>
+  <img src="https://thumbs.gfycat.com/BigFocusedCassowary-max-1mb.gif" width="100"/>
 </div>
 
 ### Hi there 👋
