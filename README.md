@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.tenor.com/0tiXRQ6x7MEAAAAd/discord-wumpus.gif" width="100"/>
+</div>
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on PTBDev Client 
